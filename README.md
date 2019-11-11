@@ -74,7 +74,9 @@
         
 * Host: <a href="url"><img src="https://github.com/Qiangqiang0/Intro2EXSI/blob/master/Picture/EnableSSH.jpg" align="middle" height="250" width="" ></a>
 
-### 2. dowload unlocker: If you are using versions of EXSI before6.5, you could download unlocker208. which you can find on github.
+### 2. dowload unlocker:
+
+If you are using versions of EXSI before6.5, you should download unlocker208. which you can find on github.
 
 ![unlocker300](https://github.com/Qiangqiang0/Intro2EXSI/blob/master/APP/esxi-unlocker-300.tar)
 
@@ -92,17 +94,16 @@
 
   __Note when reboot, exsi shutdown ssh automatically__
 ### 4. Access EXSI:
-  
-  * if you recevie 503 service unavailable (failed to connect to endpoint:[n7vmacore4http16localservicespece:0x00000050d4ebd540] _servernamespace = / action = allow _port = 8309):
-  
-  * you should:
-  
-    1. open ssh in EXSI host,(Because you can not access web)
+
+when you facing 503 error
+
+1. open ssh in EXSI host,(Because you can not access web)
     
 <a href="url"><img src="https://github.com/Qiangqiang0/Intro2EXSI/blob/master/Picture/EnableSSH.jpg" align="middle" height="250" width="" ></a>
 
-    2. start vsphere-ui service
-    service.sh start vsphere-ui
+2. start vsphere-ui service
+
+    `service.sh start vsphere-ui`
     
     
 ### 5. build your mac the same as linux.
