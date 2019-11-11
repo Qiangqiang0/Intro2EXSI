@@ -9,13 +9,11 @@
   1. __download__ exsi.(I use version 6.7 on evaluation mode)
   2. __RUFUS__/ultroISO... to make bootable usb.
   3. __Install__ and just agree all the agreement.
+  4. press __F2__ to customize your system
   
 <a href="url"><img src="https://github.com/Qiangqiang0/Intro2EXSI/blob/master/Picture/InkedInstall_sucess_LI.jpg" align="middle" height="250" width="" ></a>
 
-  4. press __F2__ to customize your system
-  
 
-  
   4. Select __configure password__, press enter to choose, and set your passwd
   
 <a href="url"><img src="https://github.com/Qiangqiang0/Intro2EXSI/blob/master/Picture/ConfigurePasswd.jpg" align="middle" height="250" width="" ></a>
@@ -44,7 +42,8 @@
 
 ## 3. Install for linux and win10.
 
-    * Build a virtula machine;
+1. __Build a virtula machine__;
+
 <a href="url"><img src="https://github.com/Qiangqiang0/Intro2EXSI/blob/master/Picture/build_1.jpg" align="middle" height="250" width="" ></a>
   
 <a href="url"><img src="https://github.com/Qiangqiang0/Intro2EXSI/blob/master/Picture/build_2.jpg" align="middle" height="250" width="" ></a>
@@ -54,7 +53,7 @@
 <a href="url"><img src="https://github.com/Qiangqiang0/Intro2EXSI/blob/master/Picture/build_4.jpg" align="middle" height="250" width="" ></a>
 
 
-__Choose your iso here and check the tick at connect__
+2. __Choose your iso here and check the tick at connect__
 
 <a href="url"><img src="https://github.com/Qiangqiang0/Intro2EXSI/blob/master/Picture/build_5.jpg" align="middle" height="250" width="" ></a>
 
@@ -62,7 +61,7 @@ __Choose your iso here and check the tick at connect__
 
 <a href="url"><img src="https://github.com/Qiangqiang0/Intro2EXSI/blob/master/Picture/build_7.jpg" align="middle" height="250" width="" ></a>
 
-   * Finished
+3. __Finished__
 
 <a href="url"><img src="https://github.com/Qiangqiang0/Intro2EXSI/blob/master/Picture/build_8.jpg" align="middle" height="250" width="" ></a>
 
